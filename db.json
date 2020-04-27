@@ -3,52 +3,52 @@
       {
         "id": 1,
         "Customer": "Customer615081",
-        "Probabilities": "0.001811"
+        "Probabilities": "Probabilities0.001811"
       },
       {
         "id": 2,
         "Customer": "Customer411106",
-        "Probabilities": "0.001368"
+        "Probabilities": "Probabilities0.001368"
       },
       {
         "id": 3,
         "Customer": "Customer65941",
-        "Probabilities": "0.000965"
+        "Probabilities": "Probabilities0.000965"
       },
       {
         "id": 4,
         "Customer": "Customer119331",
-        "Probabilities": "0.000326"
+        "Probabilities": "Probabilities0.000326"
       },
       {
         "id": 5,
         "Customer": "Customer729818",
-        "Probabilities": "0.003413"
+        "Probabilities": "Probabilities0.003413"
       },
       {
         "id": 6,
         "Customer": "Customer442232",
-        "Probabilities": "0.008407"
+        "Probabilities": "Probabilities0.008407"
       },
       {
         "id": 7,
         "Customer": "Customer168652",
-        "Probabilities": "0.002464"
+        "Probabilities": "Probabilities0.002464"
       },
       {
         "id": 8,
         "Customer": "Customer203871",
-        "Probabilities": "0.00191"
+        "Probabilities": "Probabilities0.00191"
       },
       {
         "id": 9,
         "Customer": "Customer479324",
-        "Probabilities": "0.000318"
+        "Probabilities": "Probabilities0.000318"
       },
       {
         "id": 10,
         "Customer": "Customer690762",
-        "Probabilities": "0.015395"
+        "Probabilities": "Probabilities0.015395"
       }
     ]
   }
